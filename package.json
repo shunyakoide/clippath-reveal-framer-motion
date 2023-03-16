@@ -13,6 +13,7 @@
   "dependencies": {
     "clsx": "^1.2.1",
     "eslint": "^8.0.1",
+    "framer-motion": "^10.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "tailwind-merge": "^1.10.0"
