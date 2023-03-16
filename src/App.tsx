@@ -4,6 +4,9 @@ import cn from './lib/utils';
 import img_1 from './assets/jason-leung-unsplash.jpg';
 import img_2 from './assets/pepsi.png';
 
+// inspired by https://en.manayerbamate.com/
+// clippath reveal demo
+
 function App() {
   const [isHovered, setHovered] = useState(false);
   return (
